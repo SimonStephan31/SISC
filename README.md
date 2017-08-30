@@ -1,2 +1,2 @@
-# SISC
-Structure Induction Model of Singular Causation
+# SISC code 
+This repository contains the code for the Structure Induction Model of Singular Causation
